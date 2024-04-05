@@ -4,8 +4,7 @@
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=JJHDev&show_icons=true)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JJHDev&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JJHDev)
 
-### 인생 계획 플랜
-
+### 개발자 플랜
 ```sh
    ※ ✨(완료) / 🌱(진행중) / 💬(미 진행)
   1. (✨)23년 11월     정보처리기사 실기 취득
