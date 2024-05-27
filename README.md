@@ -2,15 +2,6 @@
 ## 이글은 어떻게 성장해오고 어떤 고민을 가지며 어떻게 수행해가는지 기록하는 일지입니다.
 
 
-
-
-
-
-
-
-
-
-
 ![본인ID's github stats](https://github-readme-stats.vercel.app/api?username=JJHDev&show_icons=true)
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JJHDev&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JJHDev)
 
@@ -21,8 +12,8 @@
   2. (✨)24년 1월      국비학원에서 배운내용 복습하기
   3. (✨)24년 2~5월    Spring(김영한님 강의 듣기 기초, 핵심, MVC) --> 최소 3회독
   4. (✨)24년 4월      docker & Aws 배포하기 (프리온보딩 백엔드 과정 신청)
-  5. (🌱)24년 4월      자바 ORM 표준 JPA 프로그래밍 공부 (김영한님 책으로 공부)
-  6. (🌱)24년 4~5월    sqld자격증 취득 (유선생, 노랭이책) --> 개발이사님께서 SQL공부는 꾸준히 하라 추천하셔서 계속 공부 해야겠다 다짐.
+  5. (✨)24년 4월      자바 ORM 표준 JPA 프로그래밍 공부 (김영한님 책으로 공부)
+  6. (✨)24년 4~5월    sqld자격증 취득 (유선생, 노랭이책) --> 개발이사님께서 SQL공부는 꾸준히 하라 추천하셔서 계속 공부 해야겠다 다짐.
   7. (🌱)24년 5월      개인 프로젝트 진행. (프로젝트 설정, CI-CD구성, Docker 배포, AWS 배포 까지 일단 예정, 프로젝트 어떻게 할지는 정했음.)
   8. (🌱)24년 5월      코딩테스트 책 사서 공부 (매일 최소 1시간씩이라도..)
   9. (💬)24년 6월      석사 or 학사 (백엔드 관련 학과 입학) --> 석사대신 학사를 주변에서 많이 추천하였음.
